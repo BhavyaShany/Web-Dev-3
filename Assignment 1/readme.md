@@ -41,7 +41,7 @@ A custom `isEven` module is created and reused in another file.
 
 Files:
 
-* `math.js`
+* `isEven.js`
 * `index.js`
 
 Run:
