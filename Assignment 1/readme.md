@@ -42,7 +42,7 @@ A custom `isEven` module is created and reused in another file.
 Files:
 
 * `math.js`
-* `checkNumber.js`
+* `index.js`
 
 Run:
 
