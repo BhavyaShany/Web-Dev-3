@@ -81,9 +81,3 @@ node index.js
 ## Author
 
 * **BhavyaShany** — [GitHub Profile](https://github.com/BhavyaShany)
-
-
-
-If you share your exact route paths, database type (such as MongoDB or PostgreSQL), or `package.json` scripts, I can tailor this even closer to your code.
-
-```
